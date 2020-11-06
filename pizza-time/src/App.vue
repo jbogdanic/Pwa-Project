@@ -50,7 +50,7 @@ export default {
   width: 550px;
   margin: auto;
   margin-top: 150px;
-  margin-bottom: 200px;
+  margin-bottom: 50px;
   padding: 10px;
   padding-top: 250px;
   border: 5px solid #1abc9c;
