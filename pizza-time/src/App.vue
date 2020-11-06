@@ -32,6 +32,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: #ecf0f1;
 }
 
 #vrtuljak{
@@ -52,7 +53,7 @@ export default {
   margin-bottom: 200px;
   padding: 10px;
   padding-top: 250px;
-  border: 5px solid #ecf0f1;
+  border: 5px solid #1abc9c;
   padding: 10px;
   border-radius: 25px;
 
