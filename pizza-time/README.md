@@ -1,5 +1,9 @@
 # pizza-time
 
+Our page is powered by firebase which saves our customers log in and register data, the order process is handled by emailJS 
+which after the form is filled sends the order information as an email to the page owner. 
+After that it also sends a confirmation email to the user.
+
 ## Project setup
 ```
 npm install
