@@ -19,14 +19,10 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Firebase and EmailJS installation
 ```
-npm run lint
-
-### Installing Firebase
 npm install --save firebase
 
-### Installing EmailJS
 npm install emailjs-com --save
 ```
 
