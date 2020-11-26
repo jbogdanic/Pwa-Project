@@ -22,6 +22,12 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+### Installing Firebase
+npm install --save firebase
+
+### Installing EmailJS
+npm install emailjs-com --save
 ```
 
 ### Customize configuration
