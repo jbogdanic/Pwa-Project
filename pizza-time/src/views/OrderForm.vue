@@ -12,7 +12,7 @@
 
       <div class="field">
         <label for="from_email">Email </label><br />
-        <input type="email" name="from_email" id="from_email" value="" required/><br /><br />
+        <input type="email" name="from_email" id="from_email"  required/> <br /><br />
       </div>
 
       <div class="field">
@@ -48,7 +48,6 @@
 
 <script>
 import emailjs from "emailjs-com";
-
 
 
 export default {

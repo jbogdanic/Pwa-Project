@@ -1,7 +1,7 @@
 <template>
   <div class="vue-tempalte" id="regForm">
     <form>
-      <h1 id="middle">Sign In</h1>
+      <h1 id="middle">Log In</h1>
 
       <div class="form-group">
         <label>Email address</label>

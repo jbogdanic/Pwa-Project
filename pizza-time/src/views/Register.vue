@@ -58,6 +58,7 @@ export default {
     register: function () {
       firebase.auth().createUserWithEmailAndPassword(this.email, this.password).then((user) => {
     console.log(user.user);
+    alert('You are registered as ' + this.email);
     this.$router.push('/');
   })
   
